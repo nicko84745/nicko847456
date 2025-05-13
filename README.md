@@ -1,7 +1,7 @@
 # nicko847456
 - 👋 Hi, I’m @nicko84745
 -  tenho 17 anos
--  sou gay
+-  sou bissexual
 - 😄 Pronouns:Ele/Dele/
 - ⚡ meus robes são ler livro,assistir serie,cozinhar,dar uma caminhada e ouvir musica
 
