@@ -4,8 +4,10 @@
 -  sou bissexual
 - 😄 Pronouns:Ele/Dele/
 - ⚡ meus robes são ler livro,assistir serie,cozinhar,dar uma caminhada e ouvir musica
-
-/>
+<!--social media-->
+<div> 
+  <a href="https://instagram.com/@nick.84745" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 <img 
     align="left" 
     alt="Python" 
